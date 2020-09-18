@@ -20,7 +20,7 @@ function init() {
       index++
     }else{
       index=0;
-    }
+    } console.log(index)
   }
 
 }
