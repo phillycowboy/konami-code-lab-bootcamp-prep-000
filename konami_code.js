@@ -18,6 +18,8 @@ function init() {
     console.log(key)
     if(codes[index]===key){
       index++
+    }else{
+      index=0;
     }
   }
 
