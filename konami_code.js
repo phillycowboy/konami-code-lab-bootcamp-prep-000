@@ -15,6 +15,7 @@ let index=0;
 function init() {
   document.body.addEventListener('keydown', function(event){
     const key=event.key
+    console.log(key)
   }
 
 }
