@@ -22,7 +22,8 @@ function init() {
       index=0;
     } console.log(index)
     if(index===codes.length){
-      alert("Hurray!")
+      alert("Hurray!");
+      index=0
     }
   }
 
